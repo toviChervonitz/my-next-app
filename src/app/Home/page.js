@@ -15,6 +15,8 @@ function HomePage() {
         Welcome to our website! Explore our products and services by navigating through the links provided.
         </p>
         <button onClick={() => router.push('/login')}>Go to Login Page</button>
+            <button onClick={() => router.push('/signUp')}>Go to Sign Up Page</button>
+
         <button onClick={() => router.push('/products')}>Go to Products Page</button>
 
       
