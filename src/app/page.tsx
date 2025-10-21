@@ -39,7 +39,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now --Shiffy's Change--
+            Deploy now --Hi Hi--
           </a>
        
         </div>
